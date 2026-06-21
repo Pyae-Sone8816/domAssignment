@@ -1,0 +1,16 @@
+.button-on {
+  background-color: green;
+  color: aliceblue;
+  height: 50px;
+  width: 100px;
+  border-radius: 8px;
+  margin-top: 300px;
+}
+.button-off {
+  background-color: red;
+  color: aliceblue;
+  height: 50px;
+  width: 100px;
+  border-radius: 8px;
+  margin-top: 300px;
+}
